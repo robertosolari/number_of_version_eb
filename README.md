@@ -8,5 +8,9 @@ pip install -r requirements.txt
 ```
 
 ```
-python main.py
+python main.py 
+```
+**OR**
+```
+python3 main.py 
 ```
